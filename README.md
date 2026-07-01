@@ -1,4 +1,4 @@
-# 🚀 이것저것 해보는 깃 (ColdBrew)
+# 🚀 사내 게시판 모니터링 자동화 시스템 (ColdBrew)
 
 > **[혼자해보는 깃]** 개인 프로젝트 학습용 저장소입니다.
 <br>
@@ -14,9 +14,9 @@
 ### Language & 라이브러리
 | Category | Tech Stack |
 | :--- | :--- |
-| **Language** | ![Python](https://img.shields.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| **Automation** | ![Selenium](https://img.shields.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white) |
-| **VCS** | ![Git](https://img.shields.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
+| **Language** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
+| **Automation** | ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white) |
+| **VCS** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) |
 
 ### 개발 및 테스트 환경 (Environment)
 * **OS:** Windows 11 
@@ -31,5 +31,5 @@
 
 ### 1. 저장소 복제 (Clone)
 ```bash
-git clone [https://github.com/stasjjeong-debug/coldbrew.git](https://github.com/stasjjeong-debug/coldbrew.git)
-cd coldbrew# coldbrew
+git clone [https://github.com/oygooy/coldbrew.git](https://github.com/oygooy/coldbrew.git)
+cd coldbrew
