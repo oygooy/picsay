@@ -13,12 +13,16 @@
 
 ## 🛠️ 사용 기술 및 환경 (Tech Stack)
 ### Language & 라이브러리
-    | Category | Tech Stack |
-    | :--- | :--- |
-    | **Language** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
-    | **Automation** | ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white) |
-    | **VCS** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) |
+<blockquote>
+    
+| Category | Tech Stack |
+| :--- | :--- |
+| **Language** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
+| **Automation** | ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white) |
+| **VCS** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) |
 
+<\blockquote>
+    
 ### 개발 및 테스트 환경 (Environment)
 * **OS:** Windows 11 
 * **IDE:** VS Code 
